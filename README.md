@@ -66,7 +66,7 @@ Web scraping is a term used to describe the use of a program or algorithm to ext
 **Step 4**:
 - Finally, run the **app.py** file that will start up the Dash server and we can check the working of our model either by typing or either by selecting the preloaded scrapped reviews.
 
-<img src = assets/app.png width='50%'>
+<img src = assets/app.png width='100%'>
 
 #
 ## References
