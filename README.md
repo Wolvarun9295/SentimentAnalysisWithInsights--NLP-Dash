@@ -6,6 +6,7 @@ This project show the sentiment analysis of text data using NLP and Dash. I used
 ## Prerequisites:
 - Python3
 - [Amazon Dataset](http://deepyeti.ucsd.edu/jianmo/amazon/categoryFiles/Clothing_Shoes_and_Jewelry.json.gz) (3.6GB)
+- Anaconda
 
 #
 ## How this project was made?
