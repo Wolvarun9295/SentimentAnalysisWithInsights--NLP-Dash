@@ -1,3 +1,0 @@
-# Dataset for model building download link (3.6GB) 
-
-http://deepyeti.ucsd.edu/jianmo/amazon/categoryFiles/Clothing_Shoes_and_Jewelry.json.gz
