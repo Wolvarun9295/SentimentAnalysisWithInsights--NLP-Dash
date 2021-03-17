@@ -50,7 +50,6 @@ Web scraping is a term used to describe the use of a program or algorithm to ext
 
 #
 ## Running the project
-#
 **Step 1**:
 - Download the dataset and extract the JSON data in your project folder.
 - Make a folder **filtered_chunks** and run the **data_extraction.py** file. This will extract data from the JSON file into equal sized chunks and then combine them into a single CSV file called **balanced_reviews.csv**.
