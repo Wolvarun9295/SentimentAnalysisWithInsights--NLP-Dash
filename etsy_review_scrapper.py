@@ -90,6 +90,6 @@ if __name__ == '__main__':
     list_of_reviews, index=None, columns=['reviews'])
     scrappedReviews.to_csv('etsy_swimwear_reviews.csv')
 
-    df = pd.read_csv('etsy_swimwear_reviews.csv')
-    conn = sql.connect('etsy_swimwear_reviews.db')
+    df = pd.read_csv('etsy_reviews.csv')
+    conn = sql.connect('etsy_reviews.db')
     df.to_sql('reviews', conn)
