@@ -70,5 +70,4 @@ Web scraping is a term used to describe the use of a program or algorithm to ext
 
 #
 ## References
-#
 **[Forsk Coding School](http://forskcodingschool.com)** Internship conducted by **[Mr. Yogendra Singh](https://in.linkedin.com/in/yogendrasinsinwar)** and **[Dr. Sylvester Fernandes](https://in.linkedin.com/in/drsylvester)**
